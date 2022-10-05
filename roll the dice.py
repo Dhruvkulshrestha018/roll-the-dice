@@ -12,7 +12,7 @@ window.configure(bg="blue")
 window.geometry("530x350")
 
 # Setting title of the window
-window.title("Rolling The Dices Game")
+window.title("Rolling The Dice Game")
 
 # Preventing maximizing of the window
 window.resizable(0, 0)
